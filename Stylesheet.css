@@ -1,0 +1,31 @@
+#logo{
+	
+		margin:10px;
+		
+
+}
+
+#Menu{
+		border:3px solid black;
+		margin-top:10px;
+}
+
+#comments{
+
+		border:5px solid brown;
+		margin-top:5px;
+		height:900px;
+		width:100%;
+}
+
+#Form{
+
+		border:3px solid blue;
+		height:700px;
+		float:right;
+		margin:10px;
+}
+
+
+
+
